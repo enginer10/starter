@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   push:
 
+run-name: "Build & Test - ${{ github.actor }} on ${{ github.ref_name }}"
+
 jobs:
   build:
     runs-on: ubuntu-latest

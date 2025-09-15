@@ -21,9 +21,9 @@ npm start
 
 ## Useful Commands
 
-- `npm install` — Install project dependencies.
-- `npm run build` — Build the project (if applicable).
-- `npm test` — Run tests.
+- `npm install` - Install project dependencies.
+- `npm run build` - Build the project (if applicable).
+- `npm test` - Run tests.
 
 ## Resources
 

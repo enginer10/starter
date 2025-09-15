@@ -39,3 +39,8 @@ jobs:
           VALIDATE_JSON: true
           VALIDATE_MARKDOWN: true
           VALIDATE_YAML: true
+          FIX_JAVASCRIPT_ES: true
+          FIX_TYPESCRIPT_ES: true
+          FIX_JSON: true
+          FIX_MARKDOWN: true
+          FIX_YAML: true

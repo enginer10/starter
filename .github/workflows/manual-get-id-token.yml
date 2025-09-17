@@ -49,4 +49,5 @@ jobs:
           }
           jwtd $IDTOKEN
           echo "idToken=${IDTOKEN}" >> $GITHUB_OUTPUT
+        shell: bash
         id: tokenid
